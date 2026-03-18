@@ -1,0 +1,29 @@
+*{
+    margin: 0px, 15px;
+    padding: 0px;
+    text-align: center;
+
+}
+
+body{
+    background-color: red;
+}
+
+#quantidade{
+    margin-right: 14px;
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px;
+        background-color: yellow;
+}
+
+h1{
+    margin-top: 300px;
+    color: yellow;
+}
+
+input{
+        background-color: yellow;
+}
